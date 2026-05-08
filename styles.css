@@ -142,15 +142,15 @@ textarea {
 .hero__media {
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(135deg, rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.48)), url('https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=1600&q=80');
+  background-image: linear-gradient(135deg, rgba(10, 10, 10, 0.75), rgba(10, 10, 10, 0.55)), url('WhatsApp Image 2026-05-08 at 15.52.04.jpeg');
   background-size: cover;
   background-position: center;
-  filter: brightness(0.6);
+  filter: brightness(0.7);
 }
 .hero__overlay {
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at top left, rgba(217, 154, 88, 0.22), transparent 25%), radial-gradient(circle at bottom right, rgba(112, 24, 43, 0.18), transparent 20%);
+  background: radial-gradient(circle at top left, rgba(217, 154, 88, 0.18), transparent 25%), radial-gradient(circle at bottom right, rgba(112, 24, 43, 0.15), transparent 20%);
 }
 .hero-content {
   position: relative;
