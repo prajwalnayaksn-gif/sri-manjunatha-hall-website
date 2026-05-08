@@ -142,7 +142,7 @@ textarea {
 .hero__media {
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(135deg, rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.48)), url('https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1600&q=80');
+  background-image: linear-gradient(135deg, rgba(10, 10, 10, 0.85), rgba(10, 10, 10, 0.48)), url('https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=1600&q=80');
   background-size: cover;
   background-position: center;
   filter: brightness(0.6);
@@ -289,13 +289,13 @@ textarea {
 }
 .gallery-item-lg {
   min-height: 460px;
-  background-image: url('https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1000&q=80');
+  background-image: url('https://images.pexels.com/photos/3428498/pexels-photo-3428498.jpeg?auto=compress&cs=tinysrgb&w=1000&q=80');
 }
 .gallery-item:nth-child(2) {
-  background-image: url('https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80');
+  background-image: url('https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800&q=80');
 }
 .gallery-item:nth-child(3) {
-  background-image: url('https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80');
+  background-image: url('https://images.pexels.com/photos/2531452/pexels-photo-2531452.jpeg?auto=compress&cs=tinysrgb&w=800&q=80');
 }
 .grid {
   display: grid;
@@ -350,17 +350,18 @@ textarea {
   position: absolute;
   background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.35));
 }
-.collection-image.bridal { background-image: url('https://images.unsplash.com/photo-1495121605193-b116b5b9c5d5?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.silk { background-image: url('https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.mens { background-image: url('https://images.unsplash.com/photo-1520975910-226f5bbf33b9?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.women { background-image: url('https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.kids { background-image: url('https://images.unsplash.com/photo-1496196614460-48988a57fccf?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.festive { background-image: url('https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.casual { background-image: url('https://images.unsplash.com/photo-1457449940276-e8deed18bfff?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.combo { background-image: url('https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.arrivals { background-image: url('https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.trending { background-image: url('https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=80'); }
-.collection-image.bridal-special { background-image: url('https://images.unsplash.com/photo-1496196614460-48988a57fccf?auto=format&fit=crop&w=900&q=80'); }
+/* Authentic South Indian Traditional Wear Collection Images */
+.collection-image.bridal { background-image: url('https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.silk { background-image: url('https://images.pexels.com/photos/3428498/pexels-photo-3428498.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.sherwani { background-image: url('https://images.pexels.com/photos/2031499/pexels-photo-2031499.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.kurta { background-image: url('https://images.pexels.com/photos/1575519/pexels-photo-1575519.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.kids { background-image: url('https://images.pexels.com/photos/1321747/pexels-photo-1321747.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.festive { background-image: url('https://images.pexels.com/photos/2531452/pexels-photo-2531452.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.saree-casual { background-image: url('https://images.pexels.com/photos/3862556/pexels-photo-3862556.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.family-combo { background-image: url('https://images.pexels.com/photos/3945683/pexels-photo-3945683.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.new-arrivals { background-image: url('https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.mehendi { background-image: url('https://images.pexels.com/photos/2340251/pexels-photo-2340251.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
+.collection-image.bridal-special { background-image: url('https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=900&q=80'); }
 .collection-content {
   padding: 1.75rem;
   display: grid;
